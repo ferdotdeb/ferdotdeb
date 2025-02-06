@@ -34,3 +34,9 @@ I’m @ferdeb, the only human packaged as .deb
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ferdeb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferdeb&theme=dark&hide_border=false)
+
+## Actividad Reciente
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
