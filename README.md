@@ -31,12 +31,10 @@ I’m @ferdeb, the only human packaged as .deb
 +
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 
-## 📊 GitHub Stats:
+## Actividad Reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
+## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ferdeb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferdeb&theme=dark&hide_border=false)
-
-## Actividad Reciente
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
