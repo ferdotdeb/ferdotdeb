@@ -33,14 +33,14 @@ I’m @ferdeb, the only human packaged as .deb
 
 ## Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ferdeb/Proyecto-Blog](https://github.com/ferdeb/Proyecto-Blog)<br>
-2. ⬆️ Pushed 2 commit(s) to [ferdeb/Proyecto-Blog](https://github.com/ferdeb/Proyecto-Blog)<br>
-3. 🎉 Merged PR [#4](https://github.com/ferdeb/Proyecto-Blog/pull/4) in [ferdeb/Proyecto-Blog](https://github.com/ferdeb/Proyecto-Blog)<br>
-4. 👍 Approved [#4](https://github.com/ferdeb/Proyecto-Blog/pull/4#pullrequestreview-2594559947) in [ferdeb/Proyecto-Blog](https://github.com/ferdeb/Proyecto-Blog)<br>
-5. 👍 Approved [#4](https://github.com/ferdeb/Proyecto-Blog/pull/4#pullrequestreview-2594558658) in [ferdeb/Proyecto-Blog](https://github.com/ferdeb/Proyecto-Blog)<br>
+1. ⬆️ Pushed 3 commit(s) to [ferdeb/template-prs](https://github.com/ferdeb/template-prs)<br>
+2. 🎉 Merged PR [#1](https://github.com/ferdeb/template-prs/pull/1) in [ferdeb/template-prs](https://github.com/ferdeb/template-prs)<br>
+3. 💪 Opened PR [#1](https://github.com/ferdeb/template-prs/pull/1) in [ferdeb/template-prs](https://github.com/ferdeb/template-prs)<br>
+4. ⬆️ Pushed 1 commit(s) to [ferdeb/template-prs](https://github.com/ferdeb/template-prs)<br>
+5. 📔 Created new repository [ferdeb/template-prs](https://github.com/ferdeb/template-prs)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 27th, 2025, 12:13:25 PM
+Last Updated: Friday, February 28th, 2025, 12:35:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Stats:
