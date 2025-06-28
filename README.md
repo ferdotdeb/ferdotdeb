@@ -33,14 +33,14 @@ I’m @ferdeb, the only human packaged as .deb
 
 ## Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ferdeb/InvitacionesAbu](https://github.com/ferdeb/InvitacionesAbu)<br>
-2. ⬆️ Pushed 1 commit(s) to [ferdeb/InvitacionesAbu](https://github.com/ferdeb/InvitacionesAbu)<br>
-3. ⬆️ Pushed 1 commit(s) to [ferdeb/InvitacionesAbu](https://github.com/ferdeb/InvitacionesAbu)<br>
-4. ⬆️ Pushed 1 commit(s) to [ferdeb/InvitacionesAbu](https://github.com/ferdeb/InvitacionesAbu)<br>
+1. ⬆️ Pushed 2 commit(s) to [ferdeb/cobrando-la](https://github.com/ferdeb/cobrando-la)<br>
+2. 🎉 Merged PR [#1](https://github.com/ferdeb/cobrando-la/pull/1) in [ferdeb/cobrando-la](https://github.com/ferdeb/cobrando-la)<br>
+3. ⬆️ Pushed 1 commit(s) to [ferdeb/cobrando-la](https://github.com/ferdeb/cobrando-la)<br>
+4. ⬆️ Pushed 1 commit(s) to [ferdeb/cobrando-la](https://github.com/ferdeb/cobrando-la)<br>
 5. ⬆️ Pushed 1 commit(s) to [ferdeb/InvitacionesAbu](https://github.com/ferdeb/InvitacionesAbu)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 27th, 2025, 12:14:59 PM
+Last Updated: Saturday, June 28th, 2025, 12:39:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Stats:
