@@ -33,14 +33,14 @@ I’m @ferdeb, the only human packaged as .deb
 
 ## Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ferdeb/InvitacionesAbu](https://github.com/ferdeb/InvitacionesAbu)<br>
-2. ⬆️ Pushed 1 commit(s) to [ferdeb/TurismoHermanosHernandez-Website](https://github.com/ferdeb/TurismoHermanosHernandez-Website)<br>
-3. 📔 Created new repository [ferdeb/TurismoHermanosHernandez-Website](https://github.com/ferdeb/TurismoHermanosHernandez-Website)<br>
-4. ⬆️ Pushed 1 commit(s) to [ferdeb/SalesGuard](https://github.com/ferdeb/SalesGuard)<br>
-5. 📔 Created new repository [ferdeb/SalesGuard](https://github.com/ferdeb/SalesGuard)<br>
+1. ⬆️ Pushed 4 commit(s) to [ferdeb/cobrando-la](https://github.com/ferdeb/cobrando-la)<br>
+2. 🎉 Merged PR [#2](https://github.com/ferdeb/cobrando-la/pull/2) in [ferdeb/cobrando-la](https://github.com/ferdeb/cobrando-la)<br>
+3. ⬆️ Pushed 1 commit(s) to [ferdeb/InvitacionesAbu](https://github.com/ferdeb/InvitacionesAbu)<br>
+4. ⬆️ Pushed 1 commit(s) to [ferdeb/TurismoHermanosHernandez-Website](https://github.com/ferdeb/TurismoHermanosHernandez-Website)<br>
+5. 📔 Created new repository [ferdeb/TurismoHermanosHernandez-Website](https://github.com/ferdeb/TurismoHermanosHernandez-Website)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 3rd, 2025, 12:51:10 AM
+Last Updated: Sunday, August 3rd, 2025, 12:14:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📊 Stats:
