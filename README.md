@@ -20,13 +20,13 @@ Also I'm a Linux user with:
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [ferdeb/cobrando-la](https://github.com/ferdeb/cobrando-la)
-2. 🎉 Merged PR [#2](https://github.com/ferdeb/cobrando-la/pull/2) in [ferdeb/cobrando-la](https://github.com/ferdeb/cobrando-la)
-3. ⬆️ Pushed 1 commit(s) to [ferdeb/InvitacionesAbu](https://github.com/ferdeb/InvitacionesAbu)
+1. ⬆️ Pushed 4 commit(s) to [ferdeb/cobrando-la](https://github.com/ferdeb/cobrando-la)<br>
+2. 🎉 Merged PR [#2](https://github.com/ferdeb/cobrando-la/pull/2) in [ferdeb/cobrando-la](https://github.com/ferdeb/cobrando-la)<br>
+3. ⬆️ Pushed 1 commit(s) to [ferdeb/InvitacionesAbu](https://github.com/ferdeb/InvitacionesAbu)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 14th, 2025, 12:16:19 PM
+Last Updated: Friday, August 15th, 2025, 12:42:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 Stats
