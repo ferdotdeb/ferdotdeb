@@ -24,15 +24,15 @@ This technologies and tools are part of my daily work:
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ferdotdeb/cobrando-la](https://github.com/ferdotdeb/cobrando-la)<br>
-2. ⬆️ Pushed undefined commit(s) to [ferdotdeb/cobrando-la](https://github.com/ferdotdeb/cobrando-la)<br>
-3. ⬆️ Pushed undefined commit(s) to [ferdotdeb/cobrando-la](https://github.com/ferdotdeb/cobrando-la)<br>
-4. ⬆️ Pushed undefined commit(s) to [ferdotdeb/cobrando-la](https://github.com/ferdotdeb/cobrando-la)<br>
-5. ⬆️ Pushed undefined commit(s) to [ferdotdeb/cobrando-la](https://github.com/ferdotdeb/cobrando-la)<br>
+1. ⬆️ Pushed undefined commit(s) to [ferdotdeb/LinuxArchiveFrontend](https://github.com/ferdotdeb/LinuxArchiveFrontend)<br>
+2. ⬆️ Pushed undefined commit(s) to [ferdotdeb/LinuxArchiveFrontend](https://github.com/ferdotdeb/LinuxArchiveFrontend)<br>
+3. ⬆️ Pushed undefined commit(s) to [ferdotdeb/LinuxArchiveFrontend](https://github.com/ferdotdeb/LinuxArchiveFrontend)<br>
+4. ⬆️ Pushed undefined commit(s) to [ferdotdeb/LinuxArchiveFrontend](https://github.com/ferdotdeb/LinuxArchiveFrontend)<br>
+5. ⬆️ Pushed undefined commit(s) to [ferdotdeb/LinuxArchiveFrontend](https://github.com/ferdotdeb/LinuxArchiveFrontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 31st, 2025, 12:16:03 PM
+Last Updated: Saturday, November 1st, 2025, 12:42:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 Stats
