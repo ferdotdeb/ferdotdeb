@@ -1,6 +1,6 @@
-![Banner Hello Internet](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hello%20Internet&reversal=false&fontColor=FFF)
+![Banner Hello Internet](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hello%20World!&reversal=false&fontColor=FFF)
 
-Hello world! I'm Fernando Diaz backend developer from Mexico.
+I'm Fernando Diaz backend developer from Mexico.
 
 I do backend development with:
 
